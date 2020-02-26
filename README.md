@@ -17,7 +17,7 @@ Whenever a dev is starting with a task, please follow the format of naming a bra
 Once you are done with the task, create the PR with development branch. with following things in the description.
 ```known_issues``` and ```impact_area```. For example a description will look like this <br/>
 
-@subham.tyagi please review this PR. bla bla bla....... ```known_issues="The app crashes as soon as it is opened :-/"``` bla bla bla bla...... ```impact_area="This little code affects the entire app."```
+@subham.tyagi please review this PR. bla bla bla....... ```known_issues="The app crashes as soon as it is opened :-/"``` bla bla bla bla...... ```impact_area="This little code affects the entire app."```. Please make sure you use the exact keywords ```impact_area``` and ```known_issues``` followed by ```=``` and ```"``` - double qoutes. There should be no space between the equal to sign and double qoutes. You may also update the description after creating the PR
 
 ### 3. When everything is done
 Once the PR is approved and merged with the development, the issue with automatically be moved to "Ready for QA" and it's gonna be assigned to Vipul bhai
